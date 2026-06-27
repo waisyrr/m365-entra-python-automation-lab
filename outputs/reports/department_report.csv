@@ -1,0 +1,15 @@
+department,status,user_count
+Executive,Enabled,1
+Finance,Disabled,1
+Finance,Enabled,3
+HR,Disabled,1
+HR,Enabled,3
+IT,Disabled,1
+IT,Enabled,7
+Operations,Disabled,1
+Operations,Enabled,3
+Sales,Disabled,1
+Sales,Enabled,4
+Security,Disabled,1
+Security,Enabled,2
+Unassigned,Enabled,1

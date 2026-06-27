@@ -1,0 +1,12 @@
+group_name,description,security_enabled,mail_enabled,member_count,members
+SG-LIC-M365-Premium,Microsoft 365 Premium license assignment group,True,False,6,IT Administrator; Emma Johnson; Michael Chen; Daniel Rodriguez; Sarah Kim; Alex Carter
+SG-DEPT-IT,IT Department security group for UWatkins IT Group,True,False,7,IT Administrator; Michael Chen; Daniel Rodriguez; Sarah Kim; James Patel; Olivia Martinez; Ethan Brooks
+SG-DEPT-Operations,Operations department security group for UWatkins IT Group,True,False,3,Mark Harris; Nicole Young; Jason Walker
+SG-ROLE-Helpdesk,Help Desk role security group for UWatkins IT Group,True,False,1,James Patel
+SG-DEPT-HR,IT Department security group for UWatkins IT Group,True,False,3,Lisa Thompson; Karen Davis; Robert White
+SG-ROLE-Security-Readers.,Security Readers role security group for UWatkins IT Group,True,False,2,Alex Carter; Ryan Moore
+SG-DEPT-Sales,Sales department security group for UWatkins IT Group,True,False,4,Chris Wilson; Amanda Garcia; Brian Scott; Rachel Adams
+SG-LIC-M365-Standard,Microsoft 365 Standard license assignment group,True,False,16,James Patel; Olivia Martinez; Ethan Brooks; Lisa Thompson; Karen Davis; Robert White; David Miller; Jennifer Lee; Kevin Brown; Chris Wilson; Amanda Garcia; Brian Scott; Rachel Adams; Mark Harris; Nicole Young; Jason Walker
+SG-DEPT-Finance,Finance department security group for UWatkins IT Group,True,False,3,David Miller; Jennifer Lee; Kevin Brown
+SG-DEPT-Security,Information Security department security group for UWatkins IT Group,True,False,2,Alex Carter; Ryan Moore
+SG-ROLE-License-Admins,License Administrators role security group for UWatkins IT Group,True,False,2,IT Administrator; Michael Chen
